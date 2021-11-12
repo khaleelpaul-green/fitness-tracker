@@ -38,12 +38,8 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
 
 ## Screenshots
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./assets/screenshot.PNG)
 
-## Submission on BCS
+## Contact
 
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the GitHub repository
+Any questions regarding this project can be sent to khaleelpaulgreen.code@gmail.com and I will respond as soon as possible.
